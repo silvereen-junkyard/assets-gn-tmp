@@ -5667,5 +5667,13 @@
     "url": "{HTML_URL}/635.html",
     "author": " nkrapivin",
     "authorLink": "https://yancharkin.itch.io/spelunky-classic-hd"
+  },
+  {
+    "id": 636,
+    "name": "Ball Dodge",
+    "cover": "{COVER_URL}/636.png",
+    "url": "{HTML_URL}/636.html",
+    "author": "Silvereen Games",
+    "authorLink": "https://silvereen.net"
   }
 ]
